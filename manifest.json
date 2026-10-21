@@ -1,15 +1,15 @@
 {
   "product": "Rackschool",
   "channel": "stable",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "minimumServerVersion": "1.0.0",
   "versions": {
-    "1.0.0": {
+    "1.0.1": {
       "entryPoint": "index.html",
-      "package": "https://github.com/rackschool25-crypto/rackschool-distribution/releases/download/v1.0.0/rackschool-1.0.0.zip",
-      "sha256": "2ad13edb6a2f0df1538470d65b75d8c88bf92a8da0ce9238eb4eab2d499c4b59",
+      "package": "https://github.com/rackschool25-crypto/rackschool-distribution/releases/download/v1.0.1/rackschool-1.0.1.zip",
+      "sha256": "392b8c0bd56e486b46e61ab5c47c1e1e5ba00018a18aac31a50ac1d9f53a0be2",
       "mandatory": false,
-      "releaseNotes": "Versão inicial de teste"
+      "releaseNotes": "Versão 1.0.1 — teste de actualização automática"
     }
   },
   "serverInterface": {
