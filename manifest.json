@@ -1,0 +1,19 @@
+{
+  "product": "Rackschool",
+  "channel": "stable",
+  "latestVersion": "1.0.0",
+  "minimumServerVersion": "1.0.0",
+  "versions": {
+    "1.0.0": {
+      "entryPoint": "versoes/1.0.0/index.html",
+      "package": null,
+      "sha256": null,
+      "mandatory": false,
+      "releaseNotes": "Versão inicial de teste"
+    }
+  },
+  "serverInterface": {
+    "version": "1.0.0",
+    "entryPoint": "interface-servidor/index.html"
+  }
+}
