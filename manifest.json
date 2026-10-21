@@ -5,9 +5,9 @@
   "minimumServerVersion": "1.0.0",
   "versions": {
     "1.0.0": {
-      "entryPoint": "versoes/1.0.0/index.html",
-      "package": null,
-      "sha256": null,
+      "entryPoint": "index.html",
+      "package": "https://github.com/rackschool25-crypto/rackschool-distribution/releases/download/v1.0.0/rackschool-1.0.0.zip",
+      "sha256": "2ad13edb6a2f0df1538470d65b75d8c88bf92a8da0ce9238eb4eab2d499c4b59",
       "mandatory": false,
       "releaseNotes": "Versão inicial de teste"
     }
